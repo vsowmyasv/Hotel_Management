@@ -1,5 +1,5 @@
 # Hotel_Management 
- HOTEL MANAGEMENT project in C++ is a simple console application built without the use of graphics. 
+ HOTEL MANAGEMENT project in C++ is a simple console application built.
 # _Contents_
 
 ###  [**_Hotel Management_**](#hotel-management)

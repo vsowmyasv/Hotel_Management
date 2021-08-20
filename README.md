@@ -12,8 +12,8 @@
 
 # _Contributors_
 
-Sowmya.V
-Shakthi.A.S
+- Sowmya.V
+- Shakthi.A.S
 
 
 
